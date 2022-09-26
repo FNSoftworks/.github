@@ -16,9 +16,8 @@ pie title passions
          "creativty" : 100
 ```
 
-<h1 align="center">our team</h1>
+<h1 align="center"><a href="https://github.com/orgs/fnsoftworks/teams">our team</a></h1>
 <p align="center">We believe in the power of teamwork you need cooperation between specialist to create great projects.</p>
 
 
-<a href="url" align="center"><img src="https://avatars.githubusercontent.com/u/23061257?v=4" height="auto" width="200" border-radius="50"></a>
 
