@@ -1,12 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+#FNSOFTWORKS
+</h1>
+<p align="center">design & development team of creative technologists</p>
+<h1 align="center">our expertise</h1>
+<p align="center"><b>We turn ideas into great digital products.</b> Thanks to a collaboration between unique talents, we solve business challenges by <b>building web apps</b> based on scalable backend solutions (Python, Java, Node.js, Golang) and JavaScript (React, Angular) on the frontend, as well as mobile apps accessible on Android & iOS devices (React Native Kotlin, Swift).</p>
 
-<!--
+<h1 align="center">our values</h1>
+<p align="center">The values that are behind everything we do starting with how we do business and ending with our office life and how we handle projects.</p>
 
-**Here are some ideas to get you started:**
+```mermaid
+pie title passions
+         "growth" : 100
+         "atmosphere" : 100
+         "partnership" : 100
+         "creativty" : 100
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">our team</h1>
+<p align="center">We believe in the power of teamwork you need cooperation between specialist to create great projects.</p>
+
+
+<a href="url" align="center"><img src="https://avatars.githubusercontent.com/u/23061257?v=4" height="auto" width="200" border-radius="50"></a>
+
