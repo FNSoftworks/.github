@@ -1,23 +1,18 @@
 <h1 align="center">
-#FNSOFTWORKS
+FNSOFTWORKS
 </h1>
-<p align="center">design & development team of creative technologists</p>
-<h1 align="center">our expertise</h1>
-<p align="center"><b>We turn ideas into great digital products.</b> Thanks to a collaboration between unique talents, we solve business challenges by <b>building web apps</b> based on scalable backend solutions (Python, Java, Node.js, Golang) and JavaScript (React, Angular) on the frontend, as well as mobile apps accessible on Android & iOS devices (React Native Kotlin, Swift).</p>
+<p align="center">Yaratıcı teknolojilerin gücünü keşfetmek ve inovasyonun sınırlarını zorlamak amacıyla kurulan bir Tasarım ve Geliştirme Ekibi'dir. Teknoloji ile tasarımın muhteşem birleşimini kullanarak, dönüşüm yaratmayı, sorunları çözmeyi ve heyecan verici deneyimler sunmayı hedeflemekteyiz.</p>
+<h1 align="center">Ne Yaparız?</h1>
+<p align="center"><b>Fikirleri harika dijital ürünlere dönüştürme konusundaki uzmanlığımızla öne çıkar. Benzersiz yeteneklerin işbirliği ile iş zorluklarını aşarız; ölçeklenebilir arka plan çözümlerine (Python, Java, Node.js, Golang) dayalı web uygulamaları oluştururuz ve ön yüzde (React, Angular) TypeScript kullanırız. Ayrıca, Android ve iOS cihazlarda erişilebilir mobil uygulamaları (React Native Kotlin, Swift) geliştiririz.
+</p>
+<h1 align="center">Neden Biz'i Seçmelisiniz?</h1>
+<p align="center">Müşterilerimizin projelerini başarıyla tamamlamak için çözüm odaklı bir yaklaşım benimsiyoruz. Teknoloji ile sanatın bir araya geldiği bu dünyada, size rekabet avantajı sağlayan yaratıcı çözümler sunuyoruz.
+İster başlangıç aşamasında olan bir girişim, ister büyük bir kurumsal firma olun, projenizin her aşamasında sizinle işbirliği yapmaktan mutluluk duyarız. Her işimizde, tasarım ve teknolojiyi en üst düzeye çıkaran eşsiz bir yaklaşım sunuyoruz.</p>
 
-<h1 align="center">our values</h1>
-<p align="center">The values that are behind everything we do starting with how we do business and ending with our office life and how we handle projects.</p>
+<h1 align="center">Bize Ulaşın</h1>
 
-```mermaid
-pie title passions
-         "growth" : 100
-         "atmosphere" : 100
-         "partnership" : 100
-         "creativty" : 100
-```
-
-<h1 align="center"><a href="https://github.com/orgs/fnsoftworks/teams">our team</a></h1>
-<p align="center">We believe in the power of teamwork you need cooperation between specialist to create great projects.</p>
-
+- Email: [support@fnsoftworks.com](mailto:support@fnsoftworks.com)
+- Web Sitesi: [www.fnsoftworks.com](http://www.fnsoftworks.com)
+- LinkedIn: [LinkedIn Profil Linki](https://www.linkedin.com/company/fnsoftworks/)
 
 
