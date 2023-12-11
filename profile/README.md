@@ -1,5 +1,5 @@
 <h1 align="center">
-EF SOFT WORKS
+EFSoft.works
 </h1>
 <p align="center">Yaratıcı teknolojilerin gücünü keşfetmek ve inovasyonun sınırlarını zorlamak amacıyla kurulan bir Tasarım ve Geliştirme Ekibi'dir. Teknoloji ile tasarımın muhteşem birleşimini kullanarak, dönüşüm yaratmayı, sorunları çözmeyi ve heyecan verici deneyimler sunmayı hedeflemekteyiz.</p>
 <h1 align="center">Ne Yaparız?</h1>
