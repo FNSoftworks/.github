@@ -9,10 +9,4 @@ EFSoft.works
 <p align="center">Müşterilerimizin projelerini başarıyla tamamlamak için çözüm odaklı bir yaklaşım benimsiyoruz. Teknoloji ile sanatın bir araya geldiği bu dünyada, size rekabet avantajı sağlayan yaratıcı çözümler sunuyoruz.
 İster başlangıç aşamasında olan bir girişim, ister büyük bir kurumsal firma olun, projenizin her aşamasında sizinle işbirliği yapmaktan mutluluk duyarız. Her işimizde, tasarım ve teknolojiyi en üst düzeye çıkaran eşsiz bir yaklaşım sunuyoruz.</p>
 
-<h1 align="center">Bize Ulaşın</h1>
-
-- Email: [support@fnsoftworks.com](mailto:support@fnsoftworks.com)
-- Web Sitesi: [www.fnsoftworks.com](http://www.fnsoftworks.com)
-- LinkedIn: [LinkedIn Profil Linki](https://www.linkedin.com/company/fnsoftworks/)
-
 
