@@ -1,12 +1,18 @@
 <h1 align="center">
 EFSoft.works
 </h1>
-<p align="center">Yaratıcı teknolojilerin gücünü keşfetmek ve inovasyonun sınırlarını zorlamak amacıyla kurulan bir Tasarım ve Geliştirme Ekibi'dir. Teknoloji ile tasarımın muhteşem birleşimini kullanarak, dönüşüm yaratmayı, sorunları çözmeyi ve heyecan verici deneyimler sunmayı hedeflemekteyiz.</p>
-<h1 align="center">Ne Yaparız?</h1>
-<p align="center"><b>Fikirleri harika dijital ürünlere dönüştürme konusundaki uzmanlığımızla öne çıkar. Benzersiz yeteneklerin işbirliği ile iş zorluklarını aşarız; ölçeklenebilir arka plan çözümlerine (Python, Java, Node.js, Golang) dayalı web uygulamaları oluştururuz ve ön yüzde (React, Angular) TypeScript kullanırız. Ayrıca, Android ve iOS cihazlarda erişilebilir mobil uygulamaları (React Native Kotlin, Swift) geliştiririz.
+<p align="center">
+EFSoft.works is a Design and Development Team established to explore the power of creative technologies and push the boundaries of innovation. Our mission is to create transformation, solve problems, and deliver exciting experiences by harnessing the magnificent combination of technology and design.
 </p>
-<h1 align="center">Neden Biz'i Seçmelisiniz?</h1>
-<p align="center">Müşterilerimizin projelerini başarıyla tamamlamak için çözüm odaklı bir yaklaşım benimsiyoruz. Teknoloji ile sanatın bir araya geldiği bu dünyada, size rekabet avantajı sağlayan yaratıcı çözümler sunuyoruz.
-İster başlangıç aşamasında olan bir girişim, ister büyük bir kurumsal firma olun, projenizin her aşamasında sizinle işbirliği yapmaktan mutluluk duyarız. Her işimizde, tasarım ve teknolojiyi en üst düzeye çıkaran eşsiz bir yaklaşım sunuyoruz.</p>
-
-
+<h1 align="center">
+What We Do?
+</h1>
+<p align="center">
+We excel in turning ideas into outstanding digital products. With a collaborative approach of unique talents, we overcome business challenges. We build web applications based on scalable backend solutions (Python, Java, Node.js, Golang) and utilize TypeScript with React and Angular for the frontend. Additionally, we develop accessible mobile applications on Android and iOS devices using React Native Kotlin and Swift.
+</p>
+<h1 align="center">
+Why Choose Us?
+</h1>
+<p align="center">
+We adopt a solution-oriented approach to successfully complete our clients' projects. In this world where technology meets art, we offer creative solutions that give you a competitive edge. Whether you're a startup in the initial stages or a large corporate entity, we are happy to collaborate with you at every stage of your project. We provide a unique approach in each of our endeavors, maximizing design and technology to the fullest.
+</p>
